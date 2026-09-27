@@ -328,18 +328,18 @@
   "channels": 1,
   "loopStart": 0.25,
   "loopEnd": 6.25,
-  "rmsDb": -21.0,
+  "rmsDb": -20.5,
   "peakDb": -4.0,
   "bytes": 78336,
   "source": {
-   "id": 739415,
-   "title": "Watering Plant",
-   "user": "om.satalkar",
-   "page": "https://freesound.org/people/om.satalkar/sounds/739415/",
-   "from_s": 3.8,
-   "to_s": 10.2
+   "id": 452656,
+   "title": "plastic gas container pour gas or water on ground wet sloppy.wav",
+   "user": "kyles",
+   "page": "https://freesound.org/people/kyles/sounds/452656/",
+   "from_s": 11.5,
+   "to_s": 17.9
   },
-  "note": "水壶浇在沙上（浇盆栽的土；7 kHz 以上压低 4 dB）"
+  "note": "水壶浇在沙上：一股水冲到地上（用户在「原来 / A / B」里挑的 A；原来那段浇盆栽的花洒声用户听着不对）"
  },
  "water-pour": {
   "kind": "loop",

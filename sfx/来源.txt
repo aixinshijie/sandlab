@@ -45,10 +45,10 @@ sand-slide.mp3　沙从铲子上慢慢滑下来：重新铺沙（整段放一次
 　许可：CC0 1.0
 
 water-sand.mp3　水壶浇在沙上（循环 6 秒）
-　原录音：Watering Plant　作者：om.satalkar
-　链接：https://freesound.org/people/om.satalkar/sounds/739415/
-　用的片段（秒）：3.8–10.2
-　调整：7 kHz 以上压低 4 dB
+　原录音：plastic gas container pour gas or water on ground wet sloppy.wav　作者：kyles
+　链接：https://freesound.org/people/kyles/sounds/452656/
+　用的片段（秒）：11.5–17.9
+　调整：无（只切段、对齐响度）
 　许可：CC0 1.0
 
 water-pour.mp3　水壶倒进水坑（循环 3.6 秒）；挖到水里、水花、沙具落水也截它的小段
