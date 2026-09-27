@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-CndyID1Z.js";import{i as t}from"./framework-BGqkGggf.js";var n=e(t(),1);function r(){return(0,n.useEffect)(()=>{let e=`/sandlab/`;e===`/`||!(`serviceWorker`in navigator)||navigator.serviceWorker.register(`${e}sw.js`,{scope:e}).catch(()=>{})},[]),null}export{r as default};

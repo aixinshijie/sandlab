@@ -1,0 +1,78 @@
+沙水实验室 · 音效录音的来源
+
+这个文件夹里的 11 段 MP3，都剪自 Freesound（https://freesound.org）上以 CC0 1.0（Creative Commons Zero，公有领域贡献）发布的录音。
+CC0 不要求署名，这里照样把原录音、作者、链接和用了哪一段都列出来，方便以后查。
+剪法：截下面写的那一段，转成单声道（水流那段保留立体声），响度拉齐，做成循环段（前后各垫 0.25 秒循环本身的内容，接缝无缝）或一铲一段的「精灵」（段和段之间 0.3 秒静音），
+编码成 MP3；个别几段调过音色，写在那一行后面。每一段怎么用、从哪截的，sfx.json 里也有（source 一栏）。
+网页只在第一次点一下（或按一下键）、声音开着的时候才下载它们；哪一段没下下来，那样声音就退回网页自己合成的。
+
+──────────────────────────────────────────
+dig-dry.mp3　挖干沙（一铲一段，共 10 段；网页随机挑一段、音高 ±6%）；摆沙具时落下去的那一下也用它（放慢到 0.88–0.95；摆放 / 删除沙具的声音暂时关着）
+　原录音：15GGalasovaK_sandbox.wav　作者：KaterinaGalasova
+　链接：https://freesound.org/people/KaterinaGalasova/sounds/461940/
+　用的片段（秒）：0.68–1.12、1.09–1.44、1.40–1.80、3.51–4.02、4.12–4.62、4.71–5.28、5.25–5.80、5.84–6.38、6.36–6.95、6.97–7.55
+　许可：CC0 1.0
+
+dig-wet.mp3　挖湿沙（一铲一段，共 8 段）；很湿的时候同样这几铲，放慢到 0.90–0.96、再压暗一点，更沉
+　原录音：Digging in wet course sand (raw file)　作者：f3bbbo
+　链接：https://freesound.org/people/f3bbbo/sounds/651294/
+　用的片段（秒）：0.94–1.49、1.71–2.26、2.48–3.03、4.15–4.70、4.65–5.20、6.68–7.23、7.80–8.35、11.08–11.63
+　调整：2.5 kHz 以上压低 12 dB（湿沙要比干沙闷，不能像碎石）
+　许可：CC0 1.0
+
+sand-drag.mp3　铲子在沙里拖着走的「沙——」（循环 6 秒）；一键组合时地形变过去、重新铺沙时也垫一点（沙具被吹散也用它，暂时关着）
+　原录音：S_L_1_Friction_Sand_01.wav　作者：Tim_Verberne
+　链接：https://freesound.org/people/Tim_Verberne/sounds/576088/
+　用的片段（秒）：1.3–7.7
+　许可：CC0 1.0
+
+dig-bed.mp3　一直在挖时底下那层细碎的沙声（循环 8 秒）
+　原录音：digging sand with hands.WAV　作者：schneidi67
+　链接：https://freesound.org/people/schneidi67/sounds/662864/
+　用的片段（秒）：51.5–59.9
+　许可：CC0 1.0
+
+sand-pour.mp3　沙桶倒沙（循环 6 秒）；一键组合时地形变过去也用它（摆放 / 删除沙具、全部清空也用它，暂时关着）
+　原录音：SAND POUR.wav　作者：nicoproson
+　链接：https://freesound.org/people/nicoproson/sounds/627070/
+　用的片段（秒）：11.3–17.7（用户挑的那段：沙流得密、颗粒感弱）
+　许可：CC0 1.0
+
+sand-slide.mp3　沙从铲子上慢慢滑下来：重新铺沙（整段放一次）
+　原录音：Sand slidding out of shovel slowly.wav　作者：XfiXy8
+　链接：https://freesound.org/people/XfiXy8/sounds/467301/
+　用的片段（秒）：0.15–3.0
+　许可：CC0 1.0
+
+water-sand.mp3　水壶浇在沙上（循环 6 秒）
+　原录音：Watering Plant　作者：om.satalkar
+　链接：https://freesound.org/people/om.satalkar/sounds/739415/
+　用的片段（秒）：3.8–10.2
+　调整：7 kHz 以上压低 4 dB
+　许可：CC0 1.0
+
+water-pour.mp3　水壶倒进水坑（循环 3.6 秒）；挖到水里、水花、沙具落水也截它的小段
+　原录音：Water pouring　作者：elliott.klein
+　链接：https://freesound.org/people/elliott.klein/sounds/162759/
+　用的片段（秒）：0.5–4.4
+　许可：CC0 1.0
+
+water-hard.mp3　水倒在硬东西上（沙具顶上、冰面）（循环 6 秒）
+　原录音：Water - Pouring on the ground, in a jar　作者：Vrymaa
+　链接：https://freesound.org/people/Vrymaa/sounds/770039/
+　用的片段（秒）：1.75–8.15
+　许可：CC0 1.0
+
+water-flow.mp3　水在流、水面在晃（循环 12 秒，立体声）
+　原录音：Water Trickle　作者：TheWoodlandNomad
+　链接：https://freesound.org/people/TheWoodlandNomad/sounds/363120/
+　用的片段（秒）：9.75–22.15
+　许可：CC0 1.0
+
+rain.mp3　下雨（循环 14 秒；网页里两份错开放、左右各一）
+　原录音：Light Rain　作者：soundrecorder7
+　链接：https://freesound.org/people/soundrecorder7/sounds/167034/
+　用的片段（秒）：10.5–24.9
+　许可：CC0 1.0
+──────────────────────────────────────────
+不是录音、网页自己合成的：拿起 / 放回工具、打开声音时的那一下「嗒」、雪天的风、冰裂。
