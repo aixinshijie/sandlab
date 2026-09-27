@@ -1,424 +1,575 @@
 {
- "dig-dry": {
-  "kind": "sprite",
-  "file": "dig-dry.mp3",
-  "sr": 48000,
-  "channels": 1,
-  "takes": [
-   [
-    0.3,
-    0.44
-   ],
-   [
-    1.04,
-    0.35
-   ],
-   [
-    1.69,
-    0.4
-   ],
-   [
-    2.39,
-    0.51
-   ],
-   [
-    3.2,
-    0.5
-   ],
-   [
-    4.0,
-    0.57
-   ],
-   [
-    4.87,
-    0.55
-   ],
-   [
-    5.72,
-    0.54
-   ],
-   [
-    6.56,
-    0.59
-   ],
-   [
-    7.45,
-    0.58
-   ]
-  ],
-  "gap": 0.3,
-  "targetRmsDb": -18.0,
-  "bytes": 100512,
-  "source": [
-   {
-    "id": 461940,
-    "from_s": 0.6799999999999999,
-    "to_s": 1.12,
-    "title": "15GGalasovaK_sandbox.wav",
-    "user": "KaterinaGalasova",
-    "page": "https://freesound.org/people/KaterinaGalasova/sounds/461940/"
-   },
-   {
-    "id": 461940,
-    "from_s": 1.0899999999999999,
-    "to_s": 1.44,
-    "title": "15GGalasovaK_sandbox.wav",
-    "user": "KaterinaGalasova",
-    "page": "https://freesound.org/people/KaterinaGalasova/sounds/461940/"
-   },
-   {
-    "id": 461940,
-    "from_s": 1.4,
-    "to_s": 1.8,
-    "title": "15GGalasovaK_sandbox.wav",
-    "user": "KaterinaGalasova",
-    "page": "https://freesound.org/people/KaterinaGalasova/sounds/461940/"
-   },
-   {
-    "id": 461940,
-    "from_s": 3.51,
-    "to_s": 4.02,
-    "title": "15GGalasovaK_sandbox.wav",
-    "user": "KaterinaGalasova",
-    "page": "https://freesound.org/people/KaterinaGalasova/sounds/461940/"
-   },
-   {
-    "id": 461940,
-    "from_s": 4.12,
-    "to_s": 4.62,
-    "title": "15GGalasovaK_sandbox.wav",
-    "user": "KaterinaGalasova",
-    "page": "https://freesound.org/people/KaterinaGalasova/sounds/461940/"
-   },
-   {
-    "id": 461940,
-    "from_s": 4.71,
-    "to_s": 5.28,
-    "title": "15GGalasovaK_sandbox.wav",
-    "user": "KaterinaGalasova",
-    "page": "https://freesound.org/people/KaterinaGalasova/sounds/461940/"
-   },
-   {
-    "id": 461940,
-    "from_s": 5.25,
-    "to_s": 5.8,
-    "title": "15GGalasovaK_sandbox.wav",
-    "user": "KaterinaGalasova",
-    "page": "https://freesound.org/people/KaterinaGalasova/sounds/461940/"
-   },
-   {
-    "id": 461940,
-    "from_s": 5.84,
-    "to_s": 6.38,
-    "title": "15GGalasovaK_sandbox.wav",
-    "user": "KaterinaGalasova",
-    "page": "https://freesound.org/people/KaterinaGalasova/sounds/461940/"
-   },
-   {
-    "id": 461940,
-    "from_s": 6.36,
-    "to_s": 6.95,
-    "title": "15GGalasovaK_sandbox.wav",
-    "user": "KaterinaGalasova",
-    "page": "https://freesound.org/people/KaterinaGalasova/sounds/461940/"
-   },
-   {
-    "id": 461940,
-    "from_s": 6.97,
-    "to_s": 7.55,
-    "title": "15GGalasovaK_sandbox.wav",
-    "user": "KaterinaGalasova",
-    "page": "https://freesound.org/people/KaterinaGalasova/sounds/461940/"
-   }
-  ],
-  "note": "挖干沙：每一铲一段；网页按铲子的节拍随机挑一段、音高 ±5%"
- },
- "dig-wet": {
-  "kind": "sprite",
-  "file": "dig-wet.mp3",
-  "sr": 44100,
-  "channels": 1,
-  "takes": [
-   [
-    0.3,
-    0.55
-   ],
-   [
-    1.15,
-    0.55
-   ],
-   [
-    2.0,
-    0.55
-   ],
-   [
-    2.85,
-    0.55
-   ],
-   [
-    3.7,
-    0.55
-   ],
-   [
-    4.55,
-    0.55
-   ],
-   [
-    5.4,
-    0.55
-   ],
-   [
-    6.25,
-    0.55
-   ]
-  ],
-  "gap": 0.3,
-  "targetRmsDb": -18.0,
-  "bytes": 85577,
-  "source": [
-   {
-    "id": 651294,
-    "from_s": 0.94,
-    "to_s": 1.49,
-    "title": "Digging in wet course sand (raw file)",
-    "user": "f3bbbo",
-    "page": "https://freesound.org/people/f3bbbo/sounds/651294/"
-   },
-   {
-    "id": 651294,
-    "from_s": 1.71,
-    "to_s": 2.26,
-    "title": "Digging in wet course sand (raw file)",
-    "user": "f3bbbo",
-    "page": "https://freesound.org/people/f3bbbo/sounds/651294/"
-   },
-   {
-    "id": 651294,
-    "from_s": 2.48,
-    "to_s": 3.03,
-    "title": "Digging in wet course sand (raw file)",
-    "user": "f3bbbo",
-    "page": "https://freesound.org/people/f3bbbo/sounds/651294/"
-   },
-   {
-    "id": 651294,
-    "from_s": 4.15,
-    "to_s": 4.7,
-    "title": "Digging in wet course sand (raw file)",
-    "user": "f3bbbo",
-    "page": "https://freesound.org/people/f3bbbo/sounds/651294/"
-   },
-   {
-    "id": 651294,
-    "from_s": 4.65,
-    "to_s": 5.2,
-    "title": "Digging in wet course sand (raw file)",
-    "user": "f3bbbo",
-    "page": "https://freesound.org/people/f3bbbo/sounds/651294/"
-   },
-   {
-    "id": 651294,
-    "from_s": 6.680000000000001,
-    "to_s": 7.23,
-    "title": "Digging in wet course sand (raw file)",
-    "user": "f3bbbo",
-    "page": "https://freesound.org/people/f3bbbo/sounds/651294/"
-   },
-   {
-    "id": 651294,
-    "from_s": 7.8,
-    "to_s": 8.35,
-    "title": "Digging in wet course sand (raw file)",
-    "user": "f3bbbo",
-    "page": "https://freesound.org/people/f3bbbo/sounds/651294/"
-   },
-   {
-    "id": 651294,
-    "from_s": 11.08,
-    "to_s": 11.63,
-    "title": "Digging in wet course sand (raw file)",
-    "user": "f3bbbo",
-    "page": "https://freesound.org/people/f3bbbo/sounds/651294/"
-   }
-  ],
-  "note": "挖湿沙（湿的粗沙，2.5 kHz 以上压低 12 dB：湿沙要比干沙闷、不能像碎石）"
- },
- "sand-drag": {
-  "kind": "loop",
-  "file": "sand-drag.mp3",
-  "sr": 48000,
-  "channels": 1,
-  "loopStart": 0.25,
-  "loopEnd": 6.25,
-  "rmsDb": -20.0,
-  "peakDb": -5.1,
-  "bytes": 78336,
-  "source": {
-   "id": 576088,
-   "title": "S_L_1_Friction_Sand_01.wav",
-   "user": "Tim_Verberne",
-   "page": "https://freesound.org/people/Tim_Verberne/sounds/576088/",
-   "from_s": 1.3,
-   "to_s": 7.7
+  "dig-dry": {
+    "kind": "sprite",
+    "file": "dig-dry.mp3",
+    "sr": 48000,
+    "channels": 1,
+    "takes": [
+      [
+        0.3,
+        0.44
+      ],
+      [
+        1.04,
+        0.35
+      ],
+      [
+        1.69,
+        0.4
+      ],
+      [
+        2.39,
+        0.51
+      ],
+      [
+        3.2,
+        0.5
+      ],
+      [
+        4.0,
+        0.57
+      ],
+      [
+        4.87,
+        0.55
+      ],
+      [
+        5.72,
+        0.54
+      ],
+      [
+        6.56,
+        0.59
+      ],
+      [
+        7.45,
+        0.58
+      ]
+    ],
+    "gap": 0.3,
+    "targetRmsDb": -18.0,
+    "bytes": 100512,
+    "source": [
+      {
+        "id": 461940,
+        "from_s": 0.6799999999999999,
+        "to_s": 1.12,
+        "title": "15GGalasovaK_sandbox.wav",
+        "user": "KaterinaGalasova",
+        "page": "https://freesound.org/people/KaterinaGalasova/sounds/461940/"
+      },
+      {
+        "id": 461940,
+        "from_s": 1.0899999999999999,
+        "to_s": 1.44,
+        "title": "15GGalasovaK_sandbox.wav",
+        "user": "KaterinaGalasova",
+        "page": "https://freesound.org/people/KaterinaGalasova/sounds/461940/"
+      },
+      {
+        "id": 461940,
+        "from_s": 1.4,
+        "to_s": 1.8,
+        "title": "15GGalasovaK_sandbox.wav",
+        "user": "KaterinaGalasova",
+        "page": "https://freesound.org/people/KaterinaGalasova/sounds/461940/"
+      },
+      {
+        "id": 461940,
+        "from_s": 3.51,
+        "to_s": 4.02,
+        "title": "15GGalasovaK_sandbox.wav",
+        "user": "KaterinaGalasova",
+        "page": "https://freesound.org/people/KaterinaGalasova/sounds/461940/"
+      },
+      {
+        "id": 461940,
+        "from_s": 4.12,
+        "to_s": 4.62,
+        "title": "15GGalasovaK_sandbox.wav",
+        "user": "KaterinaGalasova",
+        "page": "https://freesound.org/people/KaterinaGalasova/sounds/461940/"
+      },
+      {
+        "id": 461940,
+        "from_s": 4.71,
+        "to_s": 5.28,
+        "title": "15GGalasovaK_sandbox.wav",
+        "user": "KaterinaGalasova",
+        "page": "https://freesound.org/people/KaterinaGalasova/sounds/461940/"
+      },
+      {
+        "id": 461940,
+        "from_s": 5.25,
+        "to_s": 5.8,
+        "title": "15GGalasovaK_sandbox.wav",
+        "user": "KaterinaGalasova",
+        "page": "https://freesound.org/people/KaterinaGalasova/sounds/461940/"
+      },
+      {
+        "id": 461940,
+        "from_s": 5.84,
+        "to_s": 6.38,
+        "title": "15GGalasovaK_sandbox.wav",
+        "user": "KaterinaGalasova",
+        "page": "https://freesound.org/people/KaterinaGalasova/sounds/461940/"
+      },
+      {
+        "id": 461940,
+        "from_s": 6.36,
+        "to_s": 6.95,
+        "title": "15GGalasovaK_sandbox.wav",
+        "user": "KaterinaGalasova",
+        "page": "https://freesound.org/people/KaterinaGalasova/sounds/461940/"
+      },
+      {
+        "id": 461940,
+        "from_s": 6.97,
+        "to_s": 7.55,
+        "title": "15GGalasovaK_sandbox.wav",
+        "user": "KaterinaGalasova",
+        "page": "https://freesound.org/people/KaterinaGalasova/sounds/461940/"
+      }
+    ],
+    "note": "挖干沙：每一铲一段；网页按铲子的节拍随机挑一段、音高 ±5%"
   },
-  "note": "铲子在沙里拖着走的「沙——」"
- },
- "dig-bed": {
-  "kind": "loop",
-  "file": "dig-bed.mp3",
-  "sr": 48000,
-  "channels": 1,
-  "loopStart": 0.25,
-  "loopEnd": 8.25,
-  "rmsDb": -20.1,
-  "peakDb": -4.0,
-  "bytes": 102528,
-  "source": {
-   "id": 662864,
-   "title": "digging sand with hands.WAV",
-   "user": "schneidi67",
-   "page": "https://freesound.org/people/schneidi67/sounds/662864/",
-   "from_s": 51.5,
-   "to_s": 59.9
+  "dig-wet": {
+    "kind": "sprite",
+    "file": "dig-wet.mp3",
+    "sr": 44100,
+    "channels": 1,
+    "takes": [
+      [
+        0.3,
+        0.55
+      ],
+      [
+        1.15,
+        0.55
+      ],
+      [
+        2.0,
+        0.55
+      ],
+      [
+        2.85,
+        0.55
+      ],
+      [
+        3.7,
+        0.55
+      ],
+      [
+        4.55,
+        0.55
+      ],
+      [
+        5.4,
+        0.55
+      ],
+      [
+        6.25,
+        0.55
+      ]
+    ],
+    "gap": 0.3,
+    "targetRmsDb": -18.0,
+    "bytes": 85577,
+    "source": [
+      {
+        "id": 651294,
+        "from_s": 0.94,
+        "to_s": 1.49,
+        "title": "Digging in wet course sand (raw file)",
+        "user": "f3bbbo",
+        "page": "https://freesound.org/people/f3bbbo/sounds/651294/"
+      },
+      {
+        "id": 651294,
+        "from_s": 1.71,
+        "to_s": 2.26,
+        "title": "Digging in wet course sand (raw file)",
+        "user": "f3bbbo",
+        "page": "https://freesound.org/people/f3bbbo/sounds/651294/"
+      },
+      {
+        "id": 651294,
+        "from_s": 2.48,
+        "to_s": 3.03,
+        "title": "Digging in wet course sand (raw file)",
+        "user": "f3bbbo",
+        "page": "https://freesound.org/people/f3bbbo/sounds/651294/"
+      },
+      {
+        "id": 651294,
+        "from_s": 4.15,
+        "to_s": 4.7,
+        "title": "Digging in wet course sand (raw file)",
+        "user": "f3bbbo",
+        "page": "https://freesound.org/people/f3bbbo/sounds/651294/"
+      },
+      {
+        "id": 651294,
+        "from_s": 4.65,
+        "to_s": 5.2,
+        "title": "Digging in wet course sand (raw file)",
+        "user": "f3bbbo",
+        "page": "https://freesound.org/people/f3bbbo/sounds/651294/"
+      },
+      {
+        "id": 651294,
+        "from_s": 6.680000000000001,
+        "to_s": 7.23,
+        "title": "Digging in wet course sand (raw file)",
+        "user": "f3bbbo",
+        "page": "https://freesound.org/people/f3bbbo/sounds/651294/"
+      },
+      {
+        "id": 651294,
+        "from_s": 7.8,
+        "to_s": 8.35,
+        "title": "Digging in wet course sand (raw file)",
+        "user": "f3bbbo",
+        "page": "https://freesound.org/people/f3bbbo/sounds/651294/"
+      },
+      {
+        "id": 651294,
+        "from_s": 11.08,
+        "to_s": 11.63,
+        "title": "Digging in wet course sand (raw file)",
+        "user": "f3bbbo",
+        "page": "https://freesound.org/people/f3bbbo/sounds/651294/"
+      }
+    ],
+    "note": "挖湿沙（湿的粗沙，2.5 kHz 以上压低 12 dB：湿沙要比干沙闷、不能像碎石）"
   },
-  "note": "一直在挖时底下那层细碎的沙声（用手挖沙）"
- },
- "sand-pour": {
-  "kind": "loop",
-  "file": "sand-pour.mp3",
-  "sr": 48000,
-  "channels": 1,
-  "loopStart": 0.25,
-  "loopEnd": 6.25,
-  "rmsDb": -20.7,
-  "peakDb": -8.0,
-  "bytes": 78336,
-  "source": {
-   "id": 627070,
-   "title": "SAND POUR.wav",
-   "user": "nicoproson",
-   "page": "https://freesound.org/people/nicoproson/sounds/627070/",
-   "from_s": 11.3,
-   "to_s": 17.7
+  "sand-drag": {
+    "kind": "loop",
+    "file": "sand-drag.mp3",
+    "sr": 48000,
+    "channels": 1,
+    "loopStart": 0.25,
+    "loopEnd": 6.25,
+    "rmsDb": -20.0,
+    "peakDb": -5.1,
+    "bytes": 78336,
+    "source": {
+      "id": 576088,
+      "title": "S_L_1_Friction_Sand_01.wav",
+      "user": "Tim_Verberne",
+      "page": "https://freesound.org/people/Tim_Verberne/sounds/576088/",
+      "from_s": 1.3,
+      "to_s": 7.7
+    },
+    "note": "铲子在沙里拖着走的「沙——」"
   },
-  "note": "沙桶倒沙（13 秒左右那段；再柔一点：5 kHz 以上压低 5 dB、颗粒尖峰压到比平均高 12 dB 以内）"
- },
- "sand-slide": {
-  "kind": "oneshot",
-  "file": "sand-slide.mp3",
-  "sr": 44100,
-  "channels": 1,
-  "start": 0.1,
-  "dur": 2.85,
-  "bytes": 36989,
-  "source": {
-   "id": 467301,
-   "title": "Sand slidding out of shovel slowly.wav",
-   "user": "XfiXy8",
-   "page": "https://freesound.org/people/XfiXy8/sounds/467301/",
-   "from_s": 0.15,
-   "to_s": 3.0
+  "dig-bed": {
+    "kind": "loop",
+    "file": "dig-bed.mp3",
+    "sr": 48000,
+    "channels": 1,
+    "loopStart": 0.25,
+    "loopEnd": 8.25,
+    "rmsDb": -20.1,
+    "peakDb": -4.0,
+    "bytes": 102528,
+    "source": {
+      "id": 662864,
+      "title": "digging sand with hands.WAV",
+      "user": "schneidi67",
+      "page": "https://freesound.org/people/schneidi67/sounds/662864/",
+      "from_s": 51.5,
+      "to_s": 59.9
+    },
+    "note": "一直在挖时底下那层细碎的沙声（用手挖沙）"
   },
-  "note": "沙从铲子上慢慢滑下来：重新铺沙"
- },
- "water-sand": {
-  "kind": "loop",
-  "file": "water-sand.mp3",
-  "sr": 48000,
-  "channels": 1,
-  "loopStart": 0.25,
-  "loopEnd": 6.25,
-  "rmsDb": -21.7,
-  "peakDb": -8.0,
-  "bytes": 78336,
-  "source": {
-   "id": 452656,
-   "title": "plastic gas container pour gas or water on ground wet sloppy.wav",
-   "user": "kyles",
-   "page": "https://freesound.org/people/kyles/sounds/452656/",
-   "from_s": 11.5,
-   "to_s": 17.9
+  "sand-pour": {
+    "kind": "loop",
+    "file": "sand-pour.mp3",
+    "sr": 48000,
+    "channels": 1,
+    "loopStart": 0.25,
+    "loopEnd": 6.25,
+    "rmsDb": -20.7,
+    "peakDb": -8.0,
+    "bytes": 78336,
+    "source": {
+      "id": 627070,
+      "title": "SAND POUR.wav",
+      "user": "nicoproson",
+      "page": "https://freesound.org/people/nicoproson/sounds/627070/",
+      "from_s": 11.3,
+      "to_s": 17.7
+    },
+    "note": "沙桶倒沙（13 秒左右那段；再柔一点：5 kHz 以上压低 5 dB、颗粒尖峰压到比平均高 12 dB 以内）"
   },
-  "note": "浇在沙上：一股水冲到地上（再柔一点：5 kHz 以上压低 4 dB、尖峰 12 dB 以内）"
- },
- "water-pour": {
-  "kind": "loop",
-  "file": "water-pour.mp3",
-  "sr": 48000,
-  "channels": 1,
-  "loopStart": 0.25,
-  "loopEnd": 3.85,
-  "rmsDb": -20.5,
-  "peakDb": -7.0,
-  "bytes": 49536,
-  "source": {
-   "id": 162759,
-   "title": "Water pouring",
-   "user": "elliott.klein",
-   "page": "https://freesound.org/people/elliott.klein/sounds/162759/",
-   "from_s": 0.5,
-   "to_s": 4.4
+  "sand-slide": {
+    "kind": "oneshot",
+    "file": "sand-slide.mp3",
+    "sr": 44100,
+    "channels": 1,
+    "start": 0.1,
+    "dur": 2.85,
+    "bytes": 36989,
+    "source": {
+      "id": 467301,
+      "title": "Sand slidding out of shovel slowly.wav",
+      "user": "XfiXy8",
+      "page": "https://freesound.org/people/XfiXy8/sounds/467301/",
+      "from_s": 0.15,
+      "to_s": 3.0
+    },
+    "note": "沙从铲子上慢慢滑下来：重新铺沙"
   },
-  "note": "倒进水坑（再柔一点：6 kHz 以上压低 4 dB、尖峰 13 dB 以内）"
- },
- "water-hard": {
-  "kind": "loop",
-  "file": "water-hard.mp3",
-  "sr": 44100,
-  "channels": 1,
-  "loopStart": 0.25,
-  "loopEnd": 6.25,
-  "rmsDb": -20.6,
-  "peakDb": -4.0,
-  "bytes": 78367,
-  "source": {
-   "id": 770039,
-   "title": "Water - Pouring on the ground, in a jar",
-   "user": "Vrymaa",
-   "page": "https://freesound.org/people/Vrymaa/sounds/770039/",
-   "from_s": 1.75,
-   "to_s": 8.15
+  "water-sand": {
+    "kind": "loop",
+    "file": "water-sand.mp3",
+    "sr": 48000,
+    "channels": 1,
+    "loopStart": 0.25,
+    "loopEnd": 6.25,
+    "rmsDb": -21.7,
+    "peakDb": -8.0,
+    "bytes": 78336,
+    "source": {
+      "id": 452656,
+      "title": "plastic gas container pour gas or water on ground wet sloppy.wav",
+      "user": "kyles",
+      "page": "https://freesound.org/people/kyles/sounds/452656/",
+      "from_s": 11.5,
+      "to_s": 17.9
+    },
+    "note": "浇在沙上：一股水冲到地上（再柔一点：5 kHz 以上压低 4 dB、尖峰 12 dB 以内）"
   },
-  "note": "水倒在硬的东西上（沙具、冰）"
- },
- "water-flow": {
-  "kind": "loop",
-  "file": "water-flow.mp3",
-  "sr": 44100,
-  "channels": 2,
-  "loopStart": 0.25,
-  "loopEnd": 12.25,
-  "rmsDb": -20.4,
-  "peakDb": -4.0,
-  "bytes": 200620,
-  "source": {
-   "id": 363120,
-   "title": "Water Trickle",
-   "user": "TheWoodlandNomad",
-   "page": "https://freesound.org/people/TheWoodlandNomad/sounds/363120/",
-   "from_s": 9.75,
-   "to_s": 22.15
+  "water-pour": {
+    "kind": "loop",
+    "file": "water-pour.mp3",
+    "sr": 48000,
+    "channels": 1,
+    "loopStart": 0.25,
+    "loopEnd": 3.85,
+    "rmsDb": -20.5,
+    "peakDb": -7.0,
+    "bytes": 49536,
+    "source": {
+      "id": 162759,
+      "title": "Water pouring",
+      "user": "elliott.klein",
+      "page": "https://freesound.org/people/elliott.klein/sounds/162759/",
+      "from_s": 0.5,
+      "to_s": 4.4
+    },
+    "note": "倒进水坑（再柔一点：6 kHz 以上压低 4 dB、尖峰 13 dB 以内）"
   },
-  "note": "水在流（涓涓细流）"
- },
- "rain": {
-  "kind": "loop",
-  "file": "rain.mp3",
-  "sr": 44100,
-  "channels": 1,
-  "loopStart": 0.25,
-  "loopEnd": 14.25,
-  "rmsDb": -20.0,
-  "peakDb": -4.0,
-  "bytes": 174602,
-  "source": {
-   "id": 167034,
-   "title": "Light Rain",
-   "user": "soundrecorder7",
-   "page": "https://freesound.org/people/soundrecorder7/sounds/167034/",
-   "from_s": 10.5,
-   "to_s": 24.9
+  "water-hard": {
+    "kind": "loop",
+    "file": "water-hard.mp3",
+    "sr": 44100,
+    "channels": 1,
+    "loopStart": 0.25,
+    "loopEnd": 6.25,
+    "rmsDb": -20.6,
+    "peakDb": -4.0,
+    "bytes": 78367,
+    "source": {
+      "id": 770039,
+      "title": "Water - Pouring on the ground, in a jar",
+      "user": "Vrymaa",
+      "page": "https://freesound.org/people/Vrymaa/sounds/770039/",
+      "from_s": 1.75,
+      "to_s": 8.15
+    },
+    "note": "水倒在硬的东西上（沙具、冰）"
   },
-  "note": "下雨（单声道；网页里两份错开、左右各一，出宽度）"
- }
+  "water-flow": {
+    "kind": "loop",
+    "file": "water-flow.mp3",
+    "sr": 44100,
+    "channels": 2,
+    "loopStart": 0.25,
+    "loopEnd": 12.25,
+    "rmsDb": -20.4,
+    "peakDb": -4.0,
+    "bytes": 200620,
+    "source": {
+      "id": 363120,
+      "title": "Water Trickle",
+      "user": "TheWoodlandNomad",
+      "page": "https://freesound.org/people/TheWoodlandNomad/sounds/363120/",
+      "from_s": 9.75,
+      "to_s": 22.15
+    },
+    "note": "水在流（涓涓细流）"
+  },
+  "rain": {
+    "kind": "loop",
+    "file": "rain.mp3",
+    "sr": 44100,
+    "channels": 1,
+    "loopStart": 0.25,
+    "loopEnd": 14.25,
+    "rmsDb": -20.0,
+    "peakDb": -4.0,
+    "bytes": 174602,
+    "source": {
+      "id": 167034,
+      "title": "Light Rain",
+      "user": "soundrecorder7",
+      "page": "https://freesound.org/people/soundrecorder7/sounds/167034/",
+      "from_s": 10.5,
+      "to_s": 24.9
+    },
+    "note": "下雨（单声道；网页里两份错开、左右各一，出宽度）"
+  },
+  "sc-plant": {
+    "kind": "sprite",
+    "file": "sandcastle/sc-plant.wav",
+    "channels": 1,
+    "takes": [
+      [
+        0.3,
+        0.44675736961451246
+      ],
+      [
+        1.0467573696145125,
+        0.37857142857142856
+      ],
+      [
+        1.725328798185941,
+        0.4448072562358277
+      ]
+    ],
+    "exactTakes": true,
+    "source": [
+      "SandPlant_01_865_0.wav",
+      "SandPlant_02_851_0.wav",
+      "SandPlant_03_883_0.wav"
+    ]
+  },
+  "sc-retract": {
+    "kind": "sprite",
+    "file": "sandcastle/sc-retract.wav",
+    "channels": 1,
+    "takes": [
+      [
+        0.3,
+        0.26374149659863944
+      ],
+      [
+        0.8637414965986394,
+        0.27006802721088435
+      ],
+      [
+        1.4338095238095239,
+        0.24054421768707482
+      ]
+    ],
+    "exactTakes": true,
+    "source": [
+      "SandRetract_01_787_0.wav",
+      "SandRetract_02_847_0.wav",
+      "SandRetract_03_863_0.wav"
+    ]
+  },
+  "sc-grab": {
+    "kind": "sprite",
+    "file": "sandcastle/sc-grab.wav",
+    "channels": 1,
+    "takes": [
+      [
+        0.3,
+        0.21335600907029478
+      ],
+      [
+        0.8133560090702948,
+        0.21746031746031746
+      ],
+      [
+        1.3308163265306123,
+        0.24628117913832198
+      ]
+    ],
+    "exactTakes": true,
+    "source": [
+      "ShovelGrab_01_837_0.wav",
+      "ShovelGrab_02_819_0.wav",
+      "ShovelGrab_03_805_0.wav"
+    ]
+  },
+  "sc-drop": {
+    "kind": "sprite",
+    "file": "sandcastle/sc-drop.wav",
+    "channels": 1,
+    "takes": [
+      [
+        0.3,
+        0.2646938775510204
+      ],
+      [
+        0.8646938775510205,
+        0.34408163265306124
+      ],
+      [
+        1.5087755102040816,
+        0.286734693877551
+      ]
+    ],
+    "exactTakes": true,
+    "source": [
+      "ShovelDrop_01_845_0.wav",
+      "ShovelDrop_02_846_0.wav",
+      "ShovelDrop_03_839_0.wav"
+    ]
+  },
+  "sc-splash": {
+    "kind": "sprite",
+    "file": "sandcastle/sc-splash.wav",
+    "channels": 1,
+    "takes": [
+      [
+        0.3,
+        0.39006802721088435
+      ],
+      [
+        0.9900680272108844,
+        0.27451247165532877
+      ],
+      [
+        1.564580498866213,
+        0.4050793650793651
+      ],
+      [
+        2.269659863945578,
+        0.40303854875283446
+      ],
+      [
+        2.9726984126984126,
+        0.46197278911564627
+      ]
+    ],
+    "exactTakes": true,
+    "source": [
+      "WaterSplashSmall_01_858_0.wav",
+      "WaterSplashSmall_02_862_0.wav",
+      "WaterSplashSmall_03_804_0.wav",
+      "WaterSplashSmall_04_871_0.wav",
+      "WaterSplashSmall_05_861_0.wav"
+    ]
+  },
+  "sc-pour": {
+    "kind": "loop",
+    "file": "sandcastle/sc-pour.wav",
+    "channels": 2,
+    "loopStart": 0.1,
+    "loopEnd": 3.629909297052154,
+    "source": "SandPourring_01_854_0.wav"
+  },
+  "sc-water": {
+    "kind": "loop",
+    "file": "sandcastle/sc-water.wav",
+    "channels": 2,
+    "loopStart": 0.1,
+    "loopEnd": 7.835918367346939,
+    "source": "WaterPourring_01_864_0.wav"
+  }
 }

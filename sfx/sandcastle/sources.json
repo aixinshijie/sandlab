@@ -1,0 +1,116 @@
+[
+  {
+    "bank": "sc-plant",
+    "original": "SandPlant_01_865_0.wav",
+    "sha256": "b2097eddae56bbb1faefafb852028880a6dbf17f469d0de3e158123ef3c2b1ec",
+    "gain": 1.68651
+  },
+  {
+    "bank": "sc-plant",
+    "original": "SandPlant_02_851_0.wav",
+    "sha256": "3f11c75fbaf9b60f3bd52f1ce4e418b5f45cd1ffda45cc15c9ebdcd46bdfe18e",
+    "gain": 1.58447
+  },
+  {
+    "bank": "sc-plant",
+    "original": "SandPlant_03_883_0.wav",
+    "sha256": "89a4175ad4be8ab5f0ebae67c887065afa927719dcdf98fe91ae59c666252656",
+    "gain": 1.34514
+  },
+  {
+    "bank": "sc-retract",
+    "original": "SandRetract_01_787_0.wav",
+    "sha256": "318802184f0d728f65484c4ce36f92235c18b5f97b34f6ab8a95e00cb0b54757",
+    "gain": 1.1088
+  },
+  {
+    "bank": "sc-retract",
+    "original": "SandRetract_02_847_0.wav",
+    "sha256": "92d92387cf0f6cc7b3554a282bb4cfee7e38fe937bd72b6d42741ad25a3b0ae3",
+    "gain": 0.95982
+  },
+  {
+    "bank": "sc-retract",
+    "original": "SandRetract_03_863_0.wav",
+    "sha256": "b1b6d64a6029afe782c439624ddea6573bce2cc1abfb18a8da874401572833d9",
+    "gain": 1.64497
+  },
+  {
+    "bank": "sc-grab",
+    "original": "ShovelGrab_01_837_0.wav",
+    "sha256": "087af7b0a5537012a666504fac5abe3c0550f936e46652fb20279d5119064428",
+    "gain": 1.04937
+  },
+  {
+    "bank": "sc-grab",
+    "original": "ShovelGrab_02_819_0.wav",
+    "sha256": "e728a1365d015e74f74fdf94d649020e460529a3505e06602e32c1be64f45f88",
+    "gain": 1.02882
+  },
+  {
+    "bank": "sc-grab",
+    "original": "ShovelGrab_03_805_0.wav",
+    "sha256": "d7d2529e66db38b3d7d7c0ac86400d7f95c5df68e6e8c305bbc011b3c14ef59b",
+    "gain": 1.06076
+  },
+  {
+    "bank": "sc-drop",
+    "original": "ShovelDrop_01_845_0.wav",
+    "sha256": "a2976a2af900f7ffd22f5c61fa0b58c9950da6a7c9ad3b119513445175e4ec99",
+    "gain": 10.32688
+  },
+  {
+    "bank": "sc-drop",
+    "original": "ShovelDrop_02_846_0.wav",
+    "sha256": "1364fbcd57a60e2fe1c2270ac8492b0ba6990f645626588e68da00c047b16b48",
+    "gain": 20.44723
+  },
+  {
+    "bank": "sc-drop",
+    "original": "ShovelDrop_03_839_0.wav",
+    "sha256": "bc597d3b1f45080c282b815b2ee9003aac5cf88bdcfa382baf5b500743823257",
+    "gain": 6.9435
+  },
+  {
+    "bank": "sc-splash",
+    "original": "WaterSplashSmall_01_858_0.wav",
+    "sha256": "b143f4d13f923aa45108dd9532116d8bc99d8029bce50d886aa62be0501233a4",
+    "gain": 2.18603
+  },
+  {
+    "bank": "sc-splash",
+    "original": "WaterSplashSmall_02_862_0.wav",
+    "sha256": "411bd26229ce004d77d77c938fd39c7a5f847c65cc77af63c1e84be1855e9975",
+    "gain": 1.54734
+  },
+  {
+    "bank": "sc-splash",
+    "original": "WaterSplashSmall_03_804_0.wav",
+    "sha256": "7c172b9279e141e851271e0e67fd06f763e6e30229267446b3cfb055004e453f",
+    "gain": 1.47655
+  },
+  {
+    "bank": "sc-splash",
+    "original": "WaterSplashSmall_04_871_0.wav",
+    "sha256": "5ccdff1bc43ad566b6cacceb5f9feb8a6ac9e5f63a643960580e06434b9d1c97",
+    "gain": 1.86944
+  },
+  {
+    "bank": "sc-splash",
+    "original": "WaterSplashSmall_05_861_0.wav",
+    "sha256": "b2ea2b895b07c66a35eff8ce35001725486f2d72c7050cabae61357aaeeb82cf",
+    "gain": 1.81077
+  },
+  {
+    "bank": "sc-pour",
+    "original": "SandPourring_01_854_0.wav",
+    "sha256": "1842dd63e1984653260e9bef3a53c3f16bab35b4dd3d5b37718833e0aa4cee21",
+    "gain": 3.37348
+  },
+  {
+    "bank": "sc-water",
+    "original": "WaterPourring_01_864_0.wav",
+    "sha256": "483c1a1277d9fea67e08973de798dd563e34ea2d33f02916470608bf3f715edd",
+    "gain": 1.26781
+  }
+]
