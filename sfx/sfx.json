@@ -290,8 +290,8 @@
   "channels": 1,
   "loopStart": 0.25,
   "loopEnd": 6.25,
-  "rmsDb": -20.1,
-  "peakDb": -4.0,
+  "rmsDb": -20.7,
+  "peakDb": -8.0,
   "bytes": 78336,
   "source": {
    "id": 627070,
@@ -301,7 +301,7 @@
    "from_s": 11.3,
    "to_s": 17.7
   },
-  "note": "沙桶倒沙（用户挑的 13 秒左右那段：沙流得密、颗粒感弱）；放沙具 / 删沙具 / 一键组合也用它"
+  "note": "沙桶倒沙（13 秒左右那段；再柔一点：5 kHz 以上压低 5 dB、颗粒尖峰压到比平均高 12 dB 以内）"
  },
  "sand-slide": {
   "kind": "oneshot",
@@ -328,8 +328,8 @@
   "channels": 1,
   "loopStart": 0.25,
   "loopEnd": 6.25,
-  "rmsDb": -20.5,
-  "peakDb": -4.0,
+  "rmsDb": -21.7,
+  "peakDb": -8.0,
   "bytes": 78336,
   "source": {
    "id": 452656,
@@ -339,7 +339,7 @@
    "from_s": 11.5,
    "to_s": 17.9
   },
-  "note": "水壶浇在沙上：一股水冲到地上（用户在「原来 / A / B」里挑的 A；原来那段浇盆栽的花洒声用户听着不对）"
+  "note": "浇在沙上：一股水冲到地上（再柔一点：5 kHz 以上压低 4 dB、尖峰 12 dB 以内）"
  },
  "water-pour": {
   "kind": "loop",
@@ -348,8 +348,8 @@
   "channels": 1,
   "loopStart": 0.25,
   "loopEnd": 3.85,
-  "rmsDb": -20.1,
-  "peakDb": -4.0,
+  "rmsDb": -20.5,
+  "peakDb": -7.0,
   "bytes": 49536,
   "source": {
    "id": 162759,
@@ -359,7 +359,7 @@
    "from_s": 0.5,
    "to_s": 4.4
   },
-  "note": "水壶倒进水坑"
+  "note": "倒进水坑（再柔一点：6 kHz 以上压低 4 dB、尖峰 13 dB 以内）"
  },
  "water-hard": {
   "kind": "loop",

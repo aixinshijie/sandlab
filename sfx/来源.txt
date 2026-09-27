@@ -36,6 +36,7 @@ sand-pour.mp3　沙桶倒沙（循环 6 秒）；一键组合时地形变过去�
 　原录音：SAND POUR.wav　作者：nicoproson
 　链接：https://freesound.org/people/nicoproson/sounds/627070/
 　用的片段（秒）：11.3–17.7（用户挑的那段：沙流得密、颗粒感弱）
+　调整：5 kHz 以上压低 5 dB，颗粒尖峰压到比平均高 12 dB 以内（用户：Mac 上倒沙「刺啦刺啦」，要柔和、融在一起）
 　许可：CC0 1.0
 
 sand-slide.mp3　沙从铲子上慢慢滑下来：重新铺沙（整段放一次）
@@ -48,13 +49,14 @@ water-sand.mp3　水壶浇在沙上（循环 6 秒）
 　原录音：plastic gas container pour gas or water on ground wet sloppy.wav　作者：kyles
 　链接：https://freesound.org/people/kyles/sounds/452656/
 　用的片段（秒）：11.5–17.9
-　调整：无（只切段、对齐响度）
+　调整：5 kHz 以上压低 4 dB，尖峰压到 12 dB 以内（同上）
 　许可：CC0 1.0
 
 water-pour.mp3　水壶倒进水坑（循环 3.6 秒）；挖到水里、水花、沙具落水也截它的小段
 　原录音：Water pouring　作者：elliott.klein
 　链接：https://freesound.org/people/elliott.klein/sounds/162759/
 　用的片段（秒）：0.5–4.4
+　调整：6 kHz 以上压低 4 dB，尖峰压到 13 dB 以内（同上）
 　许可：CC0 1.0
 
 water-hard.mp3　水倒在硬东西上（沙具顶上、冰面）（循环 6 秒）
