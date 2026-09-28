@@ -112,5 +112,73 @@
     "original": "WaterPourring_01_864_0.wav",
     "sha256": "483c1a1277d9fea67e08973de798dd563e34ea2d33f02916470608bf3f715edd",
     "gain": 1.26781
+  },
+  {
+    "bank": "sc-wsplash-m",
+    "original": "WaterSplashMedium_01_782_0.mp3",
+    "sha256": "7a6ec4000059f656dca31c13015fca506c4ba6a34ae93404ec8d7f81cc64f4b8",
+    "gain": 0.99356,
+    "from": "用户给的「Sandcastle-挖水相关原始音效-MP3」"
+  },
+  {
+    "bank": "sc-wsplash-m",
+    "original": "WaterSplashMedium_02_827_0.mp3",
+    "sha256": "d2377a81dc7a737783189a72458643d7a261e533fd5a21a08fce49673bd1fcbd",
+    "gain": 0.89544,
+    "from": "用户给的「Sandcastle-挖水相关原始音效-MP3」"
+  },
+  {
+    "bank": "sc-wsplash-m",
+    "original": "WaterSplashMedium_03_879_0.mp3",
+    "sha256": "17cd7dfce83b7dae9fe25d96a922b6e1327cf0e7038ea2b518f1b3af9c83c5c4",
+    "gain": 1.00652,
+    "from": "用户给的「Sandcastle-挖水相关原始音效-MP3」"
+  },
+  {
+    "bank": "sc-wsplash-m",
+    "original": "WaterSplashMedium_04_825_0.mp3",
+    "sha256": "5022131138d8fe2bedc722d707297771b114ef6e2264b5e7310bf284bffe427f",
+    "gain": 1.05643,
+    "from": "用户给的「Sandcastle-挖水相关原始音效-MP3」"
+  },
+  {
+    "bank": "sc-splash-s",
+    "original": "SplashSmall_01_841_0.mp3",
+    "sha256": "7029cdb423f95afc6a7277581e9d720e1584cfe8c51d91a93f8081b46441c4bf",
+    "gain": 0.73263,
+    "from": "用户给的「Sandcastle-挖水相关原始音效-MP3」"
+  },
+  {
+    "bank": "sc-splash-s",
+    "original": "SplashSmall_02_770_0.mp3",
+    "sha256": "67663fc7f616d9def41e974890c4ec12d05f84ed38b78a2cbadecf7ad37d456c",
+    "gain": 1.00792,
+    "from": "用户给的「Sandcastle-挖水相关原始音效-MP3」"
+  },
+  {
+    "bank": "sc-splash-s",
+    "original": "SplashSmall_03_818_0.mp3",
+    "sha256": "4a849ca893685a788d9269c222aff8fc6344c135508d3e70ae6f429606a6663a",
+    "gain": 1.30114,
+    "from": "用户给的「Sandcastle-挖水相关原始音效-MP3」"
+  },
+  {
+    "bank": "sc-splash-s",
+    "original": "SplashSmall_04_829_0.mp3",
+    "sha256": "edbbefafb24e2a0897b14ea8fc29a8dc787faebc57afcd5423acaa9eb8d5743a",
+    "gain": 0.99221,
+    "from": "用户给的「Sandcastle-挖水相关原始音效-MP3」"
+  },
+  {
+    "bank": "sc-wagitated",
+    "original": "WaterAgitated_01_783_0.mp3",
+    "sha256": "52e406e78e3d04276672c7f52822ef250fa790e1f77aa52485696aaae61b2096",
+    "from": "用户给的「Sandcastle-挖水相关原始音效-MP3」"
+  },
+  {
+    "bank": "sc-ding",
+    "original": "CashRegister_843_0.wav",
+    "sha256": "c41711d15ff55b8fe21634d56de2d5c84a9b51f3d6729771d482a5753f165263",
+    "from": "用户的「Sandcastle提取素材/音频」"
   }
 ]

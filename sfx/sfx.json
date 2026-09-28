@@ -572,6 +572,91 @@
     "loopEnd": 7.835918367346939,
     "source": "WaterPourring_01_864_0.wav"
   },
+  "sc-wsplash-m": {
+    "kind": "sprite",
+    "file": "sandcastle/sc-wsplash-m.wav",
+    "channels": 1,
+    "takes": [
+      [
+        0.3,
+        1.4471458333333334
+      ],
+      [
+        2.0471458333333334,
+        1.2112083333333334
+      ],
+      [
+        3.5583541666666667,
+        1.3
+      ],
+      [
+        5.158354166666667,
+        1.1358333333333333
+      ]
+    ],
+    "exactTakes": true,
+    "source": [
+      "WaterSplashMedium_01_782_0.mp3",
+      "WaterSplashMedium_02_827_0.mp3",
+      "WaterSplashMedium_03_879_0.mp3",
+      "WaterSplashMedium_04_825_0.mp3"
+    ],
+    "note": "在水里挖：铲子 / 沙桶扎进水里那一声「哗」（sound-worklet.ts 的 EV_WSPLASH）。用户给的 Sandcastle 挖水录音（MP3），转成单声道、各段响度对齐"
+  },
+  "sc-splash-s": {
+    "kind": "sprite",
+    "file": "sandcastle/sc-splash-s.wav",
+    "channels": 1,
+    "takes": [
+      [
+        0.3,
+        0.47739583333333335
+      ],
+      [
+        1.0773958333333333,
+        0.42625
+      ],
+      [
+        1.8036458333333334,
+        0.32608333333333334
+      ],
+      [
+        2.4297291666666667,
+        0.5200416666666666
+      ]
+    ],
+    "exactTakes": true,
+    "source": [
+      "SplashSmall_01_841_0.mp3",
+      "SplashSmall_02_770_0.mp3",
+      "SplashSmall_03_818_0.mp3",
+      "SplashSmall_04_829_0.mp3"
+    ],
+    "note": "在水里挖：铲子端着沙出水、水从刀上淌回去的一串小水点（EV_WSPLASH kind 1）"
+  },
+  "sc-wagitated": {
+    "kind": "loop",
+    "file": "sandcastle/sc-wagitated.wav",
+    "channels": 1,
+    "loopStart": 0.1,
+    "loopEnd": 12.1,
+    "source": "WaterAgitated_01_783_0.mp3",
+    "note": "沙桶侧着在水里拖（挖沟）的搅水声（wadeK 跟着拖得快慢）。原录音 40 秒，截第 5–17.5 秒、尾巴 0.5 秒交叉淡进开头做成 12 秒无缝循环，24 kHz 单声道；文件前后各垫一小段（前 0.1 秒是循环的尾巴、后 10 毫秒是开头），循环段 0.1–12.1 秒"
+  },
+  "sc-ding": {
+    "kind": "sprite",
+    "file": "sandcastle/sc-ding.wav",
+    "channels": 1,
+    "takes": [
+      [
+        0.3,
+        0.62
+      ]
+    ],
+    "exactTakes": true,
+    "source": "CashRegister_843_0.wav",
+    "note": "挖到盘底：刀碰到底板那一下清脆的「叮」（EV_ROCK；用户不要「咔」，要「叮」）。收银机录音 0.305 秒敲响的那一下铃：零相位窄带只留铃自己的分音（2268 Hz、5090–5180 Hz）滤掉抽屉的咔嗒，开头 4 毫秒补回敲击的高频，再乘指数衰减（τ 0.12 秒）让它短、脆；44.1 kHz 单声道"
+  },
   "prop-place": {
     "kind": "oneshot",
     "file": "prop-place.mp3",
