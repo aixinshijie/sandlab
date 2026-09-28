@@ -22,7 +22,3 @@
 3. 把 `dist/pages/` 里变了的文件传到这个仓库：先传 `_next/` 下新的文件，最后换根目录的 `*.html`、`*.rsc`，这样换的那一下页面引用的文件都已经在了。
 
 本地版照旧：`npm run build`，再 `npm run serve`（挂在根路径）。
-
-## 2026-09-27 更新
-
-Sandcastle 铲子模型、快速铲沙和渐进沙坑、无限沙桶、携沙靠近桶口自动吸附、游戏动作音效。修复靠木框深坑的铲子到位等待卡住。素材来源见 third-party/Sandcastle-shovel.md 与 third-party/Sandcastle-audio.md。

@@ -571,5 +571,41 @@
     "loopStart": 0.1,
     "loopEnd": 7.835918367346939,
     "source": "WaterPourring_01_864_0.wav"
+  },
+  "prop-place": {
+    "kind": "oneshot",
+    "file": "prop-place.mp3",
+    "sr": 48000,
+    "channels": 1,
+    "start": 0.1,
+    "dur": 3.0,
+    "bytes": 51840,
+    "source": {
+      "title": "Sand Transition",
+      "user": "Dragon Studio",
+      "page": "https://pixabay.com/（用户下载的 dragon-studio-sand-transition-451861.mp3）",
+      "license": "Pixabay Content License（免费商用、不用署名）",
+      "from_s": 0.3,
+      "to_s": 3.3
+    },
+    "note": "摆放沙具：沙子卷起来聚成沙具。放多久跟着那一件长多久（合成器里按事件带来的时长截、淡出；沙具能放大缩小，用户要「按每件的动画长短来放声音」）；这段 1.2 秒处最响"
+  },
+  "prop-delete": {
+    "kind": "oneshot",
+    "file": "prop-delete.mp3",
+    "sr": 44100,
+    "channels": 1,
+    "start": 0.1,
+    "dur": 4.22,
+    "bytes": 71471,
+    "source": {
+      "title": "Sand in the desert",
+      "user": "Mixkit",
+      "page": "https://mixkit.co/free-sound-effects/（mixkit-sand-in-the-desert-2494.wav）",
+      "license": "Mixkit Sound Effects Free License（免费商用、不用署名）",
+      "from_s": 0.08,
+      "to_s": 4.3
+    },
+    "note": "删除沙具：沙具化成沙被吹散。放多久跟着那一件化多久（连沙粒飘完），合成器里截、淡出"
   }
 }
