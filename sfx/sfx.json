@@ -692,5 +692,91 @@
       "to_s": 4.3
     },
     "note": "删除沙具：沙具化成沙被吹散。放多久跟着那一件化多久（连沙粒飘完），合成器里截、淡出"
+  },
+  "switch": {
+    "kind": "sprite",
+    "file": "switch.mp3",
+    "sr": 32000,
+    "channels": 1,
+    "takes": [
+      [
+        0.3,
+        0.14
+      ],
+      [
+        0.74,
+        0.14
+      ],
+      [
+        1.18,
+        0.14
+      ],
+      [
+        1.62,
+        0.14
+      ],
+      [
+        2.06,
+        0.14
+      ],
+      [
+        2.5,
+        0.14
+      ]
+    ],
+    "gap": 0.3,
+    "targetRmsDb": -9.0,
+    "bytes": 35856,
+    "source": [
+      {
+        "id": 759792,
+        "from_s": 0.234,
+        "to_s": 0.374,
+        "title": "Switch On and Off",
+        "user": "Tribunal01",
+        "page": "https://freesound.org/people/Tribunal01/sounds/759792/"
+      },
+      {
+        "id": 759792,
+        "from_s": 1.947,
+        "to_s": 2.087,
+        "title": "Switch On and Off",
+        "user": "Tribunal01",
+        "page": "https://freesound.org/people/Tribunal01/sounds/759792/"
+      },
+      {
+        "id": 759792,
+        "from_s": 3.522,
+        "to_s": 3.662,
+        "title": "Switch On and Off",
+        "user": "Tribunal01",
+        "page": "https://freesound.org/people/Tribunal01/sounds/759792/"
+      },
+      {
+        "id": 759792,
+        "from_s": 1.039,
+        "to_s": 1.179,
+        "title": "Switch On and Off",
+        "user": "Tribunal01",
+        "page": "https://freesound.org/people/Tribunal01/sounds/759792/"
+      },
+      {
+        "id": 759792,
+        "from_s": 2.919,
+        "to_s": 3.059,
+        "title": "Switch On and Off",
+        "user": "Tribunal01",
+        "page": "https://freesound.org/people/Tribunal01/sounds/759792/"
+      },
+      {
+        "id": 759792,
+        "from_s": 4.053,
+        "to_s": 4.193,
+        "title": "Switch On and Off",
+        "user": "Tribunal01",
+        "page": "https://freesound.org/people/Tribunal01/sounds/759792/"
+      }
+    ],
+    "note": "台灯底座上的拨杆开关：前三段拨开（亮一点的那下）、后三段拨关（闷一点的那下），网页按方向在三段里挑一段"
   }
 }
